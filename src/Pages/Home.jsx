@@ -20,7 +20,7 @@ function Home() {
 
     </div>
 
-    <div className='container mt-5 mb-5 d-flex  '>
+    <div className='container mt-5 mb-5 d-flex align-items-center'>
       <div className="all-videos">
         <h3>All-Videos</h3>
         <View uploadVideoServerResponse={uploadVideoServerResponse}/>
